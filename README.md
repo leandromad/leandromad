@@ -7,14 +7,14 @@
   <a href="https://github.com/leandromad">
     <img
       align="center"
-      height="160"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=leandromad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
   </a>
   <a href="https://github.com/leandromad">
     <img
       align="center"
-      height="160"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromad&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
