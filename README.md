@@ -3,7 +3,7 @@
 - 💙 Interesse: HTML5, CSS3, JavaScript, NodeJS, Angular, C#, SQLSERVER, Java, Python.
 
 ## Estatísticas Github :octocat:
-<p align="center">
+<p align="center" display="flex">
   <a href="https://github.com/leandromad">
     <img
       align="center"
