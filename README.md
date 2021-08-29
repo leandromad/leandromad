@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Leandro Madureira <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-- 🌱 Estudante de Engenharia de Controle e Automação no IFSP, atualmente cursando o 7° semestre.
+- 🌱 Estudante de Engenharia de Controle e Automação no IFSP, atualmente cursando o 6° semestre.
 - 💙 Interesse: HTML5, CSS3, JavaScript, NodeJS, Angular, C#, SQLSERVER, Java, Python.
 
 ## Estatísticas Github :octocat:
