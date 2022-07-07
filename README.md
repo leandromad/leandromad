@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leandro Madureira <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
+## Olá! Eu sou o Leandro Madureira <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px" height="10px">
 - ⚙️ Técnico em Mecatrônica pela ETEC Pedro Ferreira Alves (12/2018)
 - 🌱 Estudante de Engenharia de Controle e Automação no IFSP, atualmente cursando o 8° semestre.
 - 📘 Qualificação profissional em programador full-stack SENAI-SP. (07/2022)
