@@ -2,7 +2,7 @@
 - ⚙️ Técnico em Mecatrônica pela ETEC Pedro Ferreira Alves (12/2018)
 - 🌱 Estudante de Engenharia de Controle e Automação no IFSP, atualmente cursando o 8° semestre.
 - 📘 Qualificação profissional em programador full-stack SENAI-SP. (07/2022)
-- 💙 Interesse: Python, Ciências de dados.
+- 💙 Interesse: Python, Ciência de dados.
 
 
 ## Estatísticas Github :octocat:
